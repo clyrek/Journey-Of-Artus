@@ -19,9 +19,9 @@ Yet again you wake up, but this time you are in your house. Everything looks jus
 - [x] Fix minor crashes
 - [x] Debug stupid animations
 - [x] Delete Ethan's YouTube files **Stop Ethan!**
-- [ ] Stop Artus from escaping t h e v o i d
+- [x] Stop Artus from escaping t h e v o i d
 - [ ] Fix Animations
 - [ ] Add Dialogue
 - [ ] Add Enemies
 - [ ] Add music
-- [ ] Stop Artus from becoming Sonic the Hedgehog
+- [x] Stop Artus from becoming Sonic the Hedgehog
