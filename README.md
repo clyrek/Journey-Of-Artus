@@ -1,4 +1,4 @@
-#Journey Of Artus
+$Journey Of Artus
 
 You are a boy living in a small village called Haztan. Your family are mostly farmers or shopkeepers. One day, the rogue king catches fire to Haztan, turning the village to ruins.
 
