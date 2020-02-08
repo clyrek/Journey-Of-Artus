@@ -20,8 +20,9 @@ Yet again you wake up, but this time you are in your house. Everything looks jus
 - [x] Debug stupid animations
 - [x] Delete Ethan's YouTube files **Stop Ethan!**
 - [x] Stop Artus from escaping t h e v o i d
-- [ ] Fix Animations
+- [x] Fix Animations
+- [x] Stop Artus from becoming Sonic the Hedgehog
+- [ ] Fix Layout of Website
 - [ ] Add Dialogue
 - [ ] Add Enemies
 - [ ] Add music
-- [x] Stop Artus from becoming Sonic the Hedgehog
