@@ -22,6 +22,10 @@ Yet again you wake up, but this time you are in your house. Everything looks jus
 - [x] Stop Artus from escaping t h e v o i d
 - [x] Fix Animations
 - [x] Stop Artus from becoming Sonic the Hedgehog
+- [x] Pressing buttons no longer make Artus do a sick Michael Jackson impression
+- [x] Artus doesn't have Parkinson's (Key input fixed)
+- [x] Crash Fix
+- [x] Updated/Improved Scripts to improve performance
 - [ ] Fix Layout of Website
 - [ ] Add Dialogue
 - [ ] Add Enemies
